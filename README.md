@@ -1,2 +1,3 @@
-# leecode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+# Leet Code
+
+릿코드 알고리즘 문제풀이 저장소입니다.
